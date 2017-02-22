@@ -1,0 +1,18 @@
+body {
+	background-color: lightblue;
+}
+
+h1{
+
+	color: navy;
+	margin-left: 20px;
+	font-family: "Times New Roman", "Times", "serif";
+}
+
+div {
+	background-color: green;
+	width: 100px;
+	height: 100px;
+	text-align: right;
+	padding-right: 100px;
+}
